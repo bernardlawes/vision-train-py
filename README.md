@@ -37,4 +37,4 @@ Easy training of object detection models on custom datasets
 
 Reliable export formats for deployment (ONNX, TFLite, TorchScript)
 
-Full integration with C++ runtime via vision-shared-utils
+Full integration with C++ runtime via vision-common
