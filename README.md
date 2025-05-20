@@ -4,7 +4,7 @@
 ## 🧪 `vision-train-py/README.md`
 
 ```markdown
-# 🧠 Vision Train (Python)
+# 🧠 Vision Train and Eval (Python)
 
 This repository contains tools, scripts, and configs for training and exporting object detection models using modern frameworks like YOLOv8, YOLO-NAS, RT-DETR, and Grounding DINO.
 
